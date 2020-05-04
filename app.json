@@ -1,0 +1,17 @@
+{
+  "name": "geolinksapp",
+  "displayName": "geolinksapp",
+  "expo": {
+    "name": "geolinksapp",
+    "slug": "geolinksapp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
